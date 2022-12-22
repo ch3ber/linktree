@@ -12,9 +12,6 @@ Mi linktree creado con tailwind y vite.js
 
 ![Mobile Screenshot](./docs/mobile-ss.png)
 
-![Video](./docs/record.webm)
-
-
 ## Demo
 
 [Live demo](https://ch3ber.github.io/linktree)
